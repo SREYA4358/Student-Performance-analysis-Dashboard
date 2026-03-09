@@ -78,10 +78,13 @@ Average Marks
 
 These KPIs help quickly understand overall academic performance.
 
-📷 Dashboard Preview
-<img width="1311" height="739" alt="dashboard_overview" src="https://github.com/user-attachments/assets/b3423ca9-dd9f-41b8-9a0b-cc2a6b1a4b57" /> dashboard_overview
+📷 Dashboard Preview:
+**Dashboard_Overview**
 
-<img width="1310" height="735" alt="performance_analysis" src="https://github.com/user-attachments/assets/4e371743-8989-4ecf-9b8f-41c40415ee03" />performance_analysis
+<img width="1311" height="739" alt="dashboard_overview" src="https://github.com/user-attachments/assets/b3423ca9-dd9f-41b8-9a0b-cc2a6b1a4b57" /> 
+
+**Performance_Analysis**
+<img width="1310" height="735" alt="performance_analysis" src="https://github.com/user-attachments/assets/4e371743-8989-4ecf-9b8f-41c40415ee03" />
 
 
 🚀 How to Use the Project
