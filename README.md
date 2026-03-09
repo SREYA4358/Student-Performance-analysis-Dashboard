@@ -1,4 +1,5 @@
 📊 Student Performance Analysis Dashboard (Power BI)
+
 📌 Project Overview
 
 The Student Performance Analysis Dashboard is a data analytics project built using Power BI to analyze and visualize student academic performance. The dashboard helps identify key insights such as pass/fail rates, subject-wise performance, and overall academic trends.
@@ -78,13 +79,11 @@ Average Marks
 These KPIs help quickly understand overall academic performance.
 
 📷 Dashboard Preview
+<img width="1311" height="739" alt="dashboard_overview" src="https://github.com/user-attachments/assets/b3423ca9-dd9f-41b8-9a0b-cc2a6b1a4b57" /> dashboard_overview
 
-(You can add screenshots of your Power BI dashboard here)
+<img width="1310" height="735" alt="performance_analysis" src="https://github.com/user-attachments/assets/4e371743-8989-4ecf-9b8f-41c40415ee03" />performance_analysis
 
-Example:
 
-/screenshots/dashboard_overview.png
-/screenshots/performance_analysis.png
 🚀 How to Use the Project
 
 Download the repository
@@ -94,21 +93,6 @@ Open the Power BI (.pbix) file
 Load the dataset if required
 
 Explore the interactive dashboard
-
-📁 Repository Structure
-Student-Performance-Analysis-Dashboard
-│
-├── dataset
-│   └── student_performance_data.xlsx
-│
-├── dashboard
-│   └── Student Performance Analysis Dashboard.pbix
-│
-├── screenshots
-│   └── dashboard_preview.png
-│
-└── README.md
-💡 Insights from the Dashboard
 
 Identifies students who need academic improvement
 
